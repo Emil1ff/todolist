@@ -24,6 +24,7 @@
       padding: 8px;
       border: 1px solid #ddd;
       border-radius: 4px;
+      background-color: #008ecc;
     }
     
     .todo-input button {
